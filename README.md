@@ -1,9 +1,9 @@
-# VPC-in-Production-Environment
+# Deploying applications in a secure VPC production environment
 
 This project focuses on implementing a highly resilient and secure infrastructure on AWS using a Virtual Private Cloud (VPC) with servers deployed in private subnets.
 The key features include:
 
-•	_High Resiliency_: Servers are deployed in two Availability Zones using an Auto Scaling group and an Application Load Balancer to enhance resiliency.
+•	High Resiliency: Servers are deployed in two Availability Zones using an Auto Scaling group and an Application Load Balancer to enhance resiliency.
 
 •	Security Measures: Servers are placed in private subnets to add an extra layer of security. Access to the servers is managed through an Application Load Balancer.
 
