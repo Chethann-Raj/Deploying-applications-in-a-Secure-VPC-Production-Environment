@@ -1,4 +1,4 @@
-# Deploying applications in a secure VPC production environment
+# Deploying applications in a Secure VPC Production Environment
 
 This project focuses on implementing a highly resilient and secure infrastructure on AWS using a Virtual Private Cloud (VPC) with servers deployed in private subnets.
 The key features include:
